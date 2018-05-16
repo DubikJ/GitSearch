@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">GitHub Search</string>
+    <string name="settings">Settings</string>
+    <string name="search">Search</string>
+
+    <string name="github_repository">GitHub repository</string>
+    <string name="project_name">Project Name</string>
+
+    <!-- Synchronization-->
+    <string name="sync_error">Error search.</string>
+    <string name="sync_cancel">Cancel search.</string>
+    <string name="sync_timeout">Time out.</string>
+    <string name="error_internet_connecting">No internet connection!</string>
+    <string name="error_data_server">Error processing data on the server!</string>
+    <string name="error_data_not_found">Data not found!</string>
+    <string name="error_retrieving_data">Error retrieving data!</string>
+    <string name="error_connection_server">Connection to the server is not installed!</string>
+    <string name="error_no_data_search">No data found on the server!</string>
+    <string name="text_search_empry">No text found for search!</string>
+
+    <string name="questions_title_info">Info</string>
+    <string name="questions_answer_yes">Yes</string>
+    <string name="questions_answer_no">No</string>
+    <string name="questions_answer_cancel">Cancel</string>
+    <string name="questions_answer_ok">Ок</string>
+
+    <string name="owner_not_found">Organization not found</string>
+
+    <string name="repositories_title">Repositories</string>
+    <string name="date_create">Crt.</string>
+    <string name="date_update">Upd.</string>
+    <string name="size">Size</string>
+    <string name="watchers">Watchers</string>
+</resources>
